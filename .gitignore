@@ -1,0 +1,4 @@
+.sqlite3
+Pipfile.lock
+.mytest_cache
+.mypy_cache
