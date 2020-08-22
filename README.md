@@ -12,7 +12,7 @@ pipenv
 
 # Setup and run in local Machine/Server
 
-clone repo: `git clone https://github.com/muzammalrahim/sampleapitask.git`
+clone repo: `https://github.com/abdulwaheed01/agilemanifesto.git`
 
 cd sampleapitask
 
